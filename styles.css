@@ -1,0 +1,44 @@
+body {
+  background-color: #171717;
+  color: #ededed;
+}
+
+body p {
+  color: #444444;
+}
+
+body strong {
+  color: #da0037;
+}
+
+body .custom-box {
+  background-color: #444444;
+  color: #ededed;
+}
+
+body .custom-box label {
+  color: #da0037;
+}
+
+body .custom-box button {
+  background-color: #da0037;
+  color: #ededed;
+}
+
+body .custom-box small {
+  color: #ededed !important;
+}
+
+body .modal .modal-content, body .modal .modal-body p {
+  background-color: #444444;
+  color: #ededed !important;
+  line-height: 150%;
+  font-weight: 700 !important;
+  text-transform: capitalize;
+}
+
+body .modal .modal-content button.btn, body .modal .modal-body p button.btn {
+  background-color: #da0037;
+  color: #ededed;
+}
+/*# sourceMappingURL=styles.css.map */

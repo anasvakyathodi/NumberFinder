@@ -1,0 +1,37 @@
+body {
+  background-color: #171717;
+  color: #ededed;
+  p {
+    color: #444444;
+  }
+  strong {
+    color: #da0037;
+  }
+  .custom-box {
+    background-color: #444444;
+    color: #ededed;
+    label {
+      color: #da0037;
+    }
+    button {
+      background-color: #da0037;
+      color: #ededed;
+    }
+    small {
+      color: #ededed !important;
+    }
+  }
+  .modal {
+    .modal-content,.modal-body p{
+      background-color: #444444;
+      color: #ededed !important;
+      line-height: 150%;
+      font-weight: 700 !important;
+      text-transform: capitalize;
+      button.btn{
+        background-color: #da0037;
+        color: #ededed;
+      }
+    }
+  }
+}
